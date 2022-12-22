@@ -1,0 +1,4 @@
+/*重置浏览器的默认样式*/
+*{margin:0; padding:0;border:0; background:none;}
+/*全局控制*/
+body{font-family:"微软雅黑";font-size:16px;}
